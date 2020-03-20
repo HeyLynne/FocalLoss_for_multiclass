@@ -15,7 +15,7 @@ python run_focal_loss.py
 ## Experiments
 We use focal loss in Albert model for Ner task, we will public this part of code later, and the result is:
 
-  | Albert  | Albert+Focal loss
+ result | Albert  | Albert+Focal loss
 ---- | ----- | ------  
 acc  | 90.792207 | 91.001332 
 recall  | 90.145559 | 90.406321 
