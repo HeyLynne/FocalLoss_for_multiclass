@@ -19,3 +19,5 @@ We use focal loss in Albert model for Ner task, we will public this part of code
 ---- | ----- | ------  
 acc  | 90.792207 | 91.001332 
 recall  | 90.145559 | 90.406321 
+
+If you have any questions, please contact me at lion19930924@163.com, thanks a lot.
